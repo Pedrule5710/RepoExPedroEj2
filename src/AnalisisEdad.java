@@ -3,12 +3,7 @@ import java.util.*;
 public class AnalisisEdad {
 	private ArrayList<Integer> edades = new ArrayList<Integer>();
 	public AnalisisEdad(ArrayList<Integer> edades) {
-		edades.add(15);
-		edades.add(20);
-		edades.add(12);
-		edades.add(13);
-		edades.add(9);
-		edades.add(11);
+	this.edades = edades;
 
 	}
 	
